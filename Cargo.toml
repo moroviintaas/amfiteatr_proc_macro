@@ -1,5 +1,5 @@
 [package]
-name = "amfi_macros"
+name = "amfiteatr_macros"
 version = "0.1.0"
 edition = "2021"
 
