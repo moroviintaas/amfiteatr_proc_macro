@@ -1,2 +1,7 @@
-# amfiteatr_proc_macro
-Nameholder crate for future macro implementations for [`amfiteatr`](https://github.com/moroviintaas/amfiteatr.git) crate
+# Repository archived
+Previously this repository was stand-alone and included as
+submodule in [`amfiteatr`](https://github.com/moroviintaas/amfiteatr). 
+Now [`amfiteatr`](https://github.com/moroviintaas/amfiteatr) include crates' code 
+directly. Since these crates will be developed simultaneously they will share the same version. 
+
+
